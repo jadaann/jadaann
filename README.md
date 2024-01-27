@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jadaann
-- 👀 I’m interested in cloud computing, cybersecurity and cloud security
-- 🌱 I’m currently learning cloud computing architecture
-- 💞️ I’m looking to collaborate on cloud projects
+- 👀 My domains in IT span across cloud intelligence defense & DevSecOps
+- 🌱 I’m currently working on my PhD in cybersecurity leadership
+- 💞️ I’m looking to collaborate on cyber intelligence and defense projects
 - 📫 To reach me direct message me
 
 <!---
